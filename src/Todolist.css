@@ -1,0 +1,25 @@
+.list{
+     height : auto; 
+     width : 15rem;
+     padding: 1rem;
+     margin-left : 2rem;
+     background-color: rgb(214, 214, 228);
+}
+
+.task-container{
+     display: flex;
+     margin-bottom: 1rem;
+}
+
+.task{
+     width: 90%;
+}
+
+.icon-container{
+     width: 10%;
+}
+
+.icon{
+     height: 10px;
+     width: 10px;
+}
